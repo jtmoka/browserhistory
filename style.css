@@ -12,3 +12,36 @@ img{
   float: left;
   margin: 10px;
 }
+#navbar ul{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0;
+}
+#navbar li{
+display: inline;
+}
+
+#navbar a {
+  margin-right: 75px;
+  margin-left: 75px;
+}
+}
+.left{
+  float: left;
+  margin-right: 10px;
+  width: 300px;
+  padding: 1em;
+}
+
+.right{
+  float: right;
+  margin-left: 10px;
+  width: 300px;
+  padding: 1em;
+}
+
+.center{
+  margin-left: 300px;
+  margin-right: 10px;
+  padding: 1em;
+}
